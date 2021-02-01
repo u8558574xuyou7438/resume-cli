@@ -39,7 +39,7 @@
     "jest-extended": "^0.11.5",
     "jsonlint": "^1.6.3",
     "jsonresume-theme-even": "^0.6.0",
-    "mime-types": "^2.1.27",
+    "mime-types": "^2.1.28",
     "object-path-immutable": "^4.1.1",
     "puppeteer": "^5.2.1",
     "quaff": "^4.2.0",
